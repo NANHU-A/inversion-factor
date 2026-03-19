@@ -1,0 +1,10 @@
+# 项目依赖
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+nbformat>=5.1.0
+
+# 可选：用于更快的 parquet 读取（如果使用 pyarrow）
+# pyarrow>=6.0.0
